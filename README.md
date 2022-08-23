@@ -1,6 +1,6 @@
 ## Hey👋🏻, I'm Rupesh!
 
-Hi There, Myself Rupesh I'm 18 and currently in my **Exploration Phase**. I'm new to open source and just looking for opportunities in the community. But for now, I'm a Computer Programming novice learning Java as my first programming language, while also exploring DevOps. I'm also interested in Cyber Security, although I haven't delved into it yet. That's all I have to say about myself, now it's your turn...
+Hi There, Myself Rupesh I'm 18 and currently in my **Exploration Phase**. I'm new to Open Source and just looking for opportunities in the Community. But for now, I'm a Computer Programming novice learning Java as my first programming language, while also exploring DevOps. I'm also interested in Cyber Security, although I haven't delved into it yet. That's all I have to say about myself, now it's your turn...
 
 **We Have Long Way To Go 🚀**
 
