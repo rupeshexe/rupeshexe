@@ -1,5 +1,9 @@
 ## Hey👋🏻, I'm Rupesh!
 
+Hi There, Myself Rupesh I'm 18 and currently in my **Exploration Phase**. I'm new to open source and just looking for opportunities in the community. But for now, I'm a Computer Programming novice learning Java as my first programming language, while also exploring DevOps. I'm also interested in Cyber Security, although I haven't delved into it yet. That's all I have to say about myself, now it's your turn...
+
+**We Have Long Way To Go 🚀**
+
 <img src="https://activity-graph.herokuapp.com/graph?username=rupeshexe&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
  
 * 🌱 I’m currently learning **DevOps, Java**
