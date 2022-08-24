@@ -60,4 +60,4 @@ Hi There, Myself Rupesh I'm 18 and currently in my **Exploration Phase**. I'm ne
 </p>
 
 ## ☕ Support
-<p><a href="https://www.buymeacoffee.com/rupeshdubey"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rupeshdubey" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/rupeshdubey"> <img align="left" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a></p><br><br>
