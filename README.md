@@ -1,15 +1,12 @@
 ## Hey👋🏻, I'm Rupesh!
 
 Hi There, Myself Rupesh I'm 18 and currently in my **Exploration Phase**. I'm new to Open Source and just looking for opportunities in the Community. Also, I'm a Computer Programming novice learning Java as my first programming language, while exploring DevOps as well. I'm also interested in Cyber Security, although I haven't delved into it yet. That's enough about me, now it's your turn...
-
-![githubbanner1](https://user-images.githubusercontent.com/91791257/186361384-058269f9-1620-418d-8cc7-3c608afd130a.png)
-
 * 🌱 I’m currently learning **DevOps, Java**
 * 💬 Help Me In **DevSecOps**
 * ⚡ Fun fact **I'm a COMMERCIAN!!**
 * ✉ You can contact me [Here](https://t.me/rupeshchatbot).
 
----
+<img src="https://activity-graph.herokuapp.com/graph?username=rupeshexe&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
 ## 📶 Socials
 </a>
@@ -25,7 +22,6 @@ Hi There, Myself Rupesh I'm 18 and currently in my **Exploration Phase**. I'm ne
 	<a href="https://t.me/rupeshchatbot/">	
 		<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 
----
 
 ## ⚡ Tech Stack
 
@@ -46,11 +42,8 @@ Hi There, Myself Rupesh I'm 18 and currently in my **Exploration Phase**. I'm ne
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
----
 
 ## 📈 Stats
-
-<img src="https://activity-graph.herokuapp.com/graph?username=rupeshexe&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
 <p align="center">
 	
