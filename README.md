@@ -1,7 +1,7 @@
 ## Hey👋🏻, I'm Rupesh!
 
 Hi There, Myself Rupesh I'm 18 and currently in my **Exploration Phase**. I'm new to Open Source and just looking for opportunities in the Community. Also, I'm a Computer Programming novice learning Java as my first programming language, while exploring DevOps as well. I'm also interested in Cyber Security, although I haven't delved into it yet. That's enough about me, now it's your turn...
-* 🌱 I’m currently learning **DevOps, Java**
+* 🌱 I’m currently learning **DevOps, DSA**
 * 💬 Help Me In **DevSecOps**
 * ⚡ Fun fact **I'm a COMMERCIAN!!**
 * ✉ You can contact me [Here](https://t.me/rupeshchatbot).
