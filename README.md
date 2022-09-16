@@ -1,6 +1,5 @@
 ## Hey👋🏻, I'm Rupesh!
 
-Hi There, Myself Rupesh I'm 18 and currently in my **Exploration Phase**. I'm new to Open Source and just looking for opportunities in the Community. Also, I'm a Computer Programming novice learning Java as my first programming language, while exploring DevOps as well. I'm also interested in Cyber Security, although I haven't delved into it yet. That's enough about me, now it's your turn...
 * 🌱 I’m currently learning **DevOps, DSA**
 * 💬 Help Me In **DevSecOps**
 * ⚡ Fun fact **I'm a COMMERCIAN!!**
@@ -16,8 +15,8 @@ Hi There, Myself Rupesh I'm 18 and currently in my **Exploration Phase**. I'm ne
 	<a href="https://www.reddit.com/user/rupeshexe/">
 		<img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" />
 		</a>
-	<a href="https://rupeshdubey.bio.link/">
-		<img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" />
+	<a href="https://www.instagram.com/rupeshexe">
+		<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 	        </a>
 	<a href="https://t.me/rupeshchatbot/">	
 		<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
