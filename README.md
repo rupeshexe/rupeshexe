@@ -12,9 +12,6 @@
 	<a href="https://twitter.com/rupeshtwt">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 		</a>
-	<a href="https://www.reddit.com/user/rupeshexe/">
-		<img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" />
-		</a>
 	<a href="https://www.instagram.com/rupeshexe">
 		<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 	        </a>
