@@ -17,6 +17,9 @@
 	        </a>
 	<a href="https://t.me/rupeshchatbot/">	
 		<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+		</a>
+	<a href="https://rupeshexe.github.io">	
+		<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
 
 
 ## ⚡ Tech Stack
