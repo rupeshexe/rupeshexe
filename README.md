@@ -1,6 +1,8 @@
 ## Hey👋🏻, I'm Rupesh!
 
-* 🌱 I’m currently learning **DevOps, DSA**
+I'm 18 years old Computer Science enthusiast pursuing a bachelor's degree. I'm an intermediate programmer, currently learning DSA in Java and am always willing to collaborate on projects and creative/new ideas.
+
+* 🌱 I’m currently learning **DSA**
 * 💬 Help Me In **DevSecOps**
 * ⚡ Fun fact **I'm a COMMERCIAN!!**
 * ✉ You can contact me [Here](https://t.me/rupeshchatbot).
