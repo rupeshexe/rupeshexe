@@ -3,11 +3,11 @@
 I'm 18 years old Computer Science enthusiast pursuing a bachelor's degree. I'm an intermediate programmer, currently learning DSA in Java and am always willing to collaborate on projects and creative/new ideas.
 
 * 🌱 I’m currently learning **DSA**
-* 💬 Help Me In **DevSecOps**
+* 💬 Help Me In **Data Science**
 * ⚡ Fun fact **I'm a COMMERCIAN!!**
-* ✉ You can contact me [Here](https://t.me/rupeshchatbot).
+* ✉ You can contact me [Here](mailto:contactrupeshdubey@gmail.com).
 
-<img src="https://activity-graph.herokuapp.com/graph?username=rupeshexe&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=rupeshexe&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
 ## 📶 Socials
 </a>
@@ -20,8 +20,8 @@ I'm 18 years old Computer Science enthusiast pursuing a bachelor's degree. I'm a
 	<a href="https://www.instagram.com/rupeshexe">
 		<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 	        </a>
-	<a href="https://t.me/rupeshchatbot/">	
-		<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+	<a href="mailto:contactrupeshdubey@gmail.com">	
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 		</a>
 	<a href="https://rupeshexe.github.io">	
 		<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
