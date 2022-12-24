@@ -1,31 +1,18 @@
 ## Hey👋🏻, I'm Rupesh!
 
-I'm 18 years old Computer Science enthusiast pursuing a bachelor's degree. I'm an intermediate programmer, currently learning DSA in Java and am always willing to collaborate on projects and creative/new ideas.
+Hello, my name is Rupesh Dubey and I am an 18 year old computer science enthusiast currently pursuing a bachelor's degree in the field. I have a strong passion for programming and am constantly striving to improve my skills and knowledge. I am currently learning data structures and algorithms in Java and am always open to collaborating on projects and exploring new and creative ideas. I am excited to continue growing and learning in the field of computer science and am always looking for opportunities to apply my skills and make a positive impact.
 
-* 🌱 I’m currently learning **DSA**
-* 💬 Help Me In **Data Science**
-* ⚡ Fun fact **I'm a COMMERCIAN!!**
-* ✉ You can contact me [Here](mailto:contactrupeshdubey@gmail.com).
+I am always happy to make new connections and discuss potential collaboration opportunities. To learn more about me, please feel free to connect with me through the links provided :
+
+[![Twitter Badge](https://img.shields.io/badge/-rupeshtwt-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/rupeshtwt/)](https://twitter.com/rupeshtwt)
+[![Linkedin Badge](https://img.shields.io/badge/-rupeshexe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rupeshexe/)](https://www.linkedin.com/in/rupeshexe/)
+[![Instagram Badge](https://img.shields.io/badge/-rupeshexe-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/rupeshexe/)](https://instagram.com/rupeshexe)
+[![Hashnode Badge](https://img.shields.io/badge/-@rupeshexe-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://rupeshexe.hashnode.dev/)](https://rupeshexe.hashnode.dev/)
+[![Gmail Badge](https://img.shields.io/badge/-contactrupeshdubey@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contactrupeshdubey@gmail.com)](mailto:contactrupeshdubey@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Portfolio%20Website-black?style=flat-square&logo=notion&logoColor=white&link=https://rupeshexe.github.io/)](https://rupeshexe.github.io/)
+[![Youtube Badge](https://img.shields.io/badge/-Rupesh%20Dubey-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@rupeshexe)](https://www.youtube.com/@rupeshexe)
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rupeshexe&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
-
-## 📶 Socials
-</a>
-	<a href="https://twitter.com/rupeshtwt">
-		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-		</a>
-	<a href="https://www.linkedin.com/in/rupeshexe">
-		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-		</a>
-	<a href="https://www.instagram.com/rupeshexe">
-		<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-	        </a>
-	<a href="mailto:contactrupeshdubey@gmail.com">	
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-		</a>
-	<a href="https://rupeshexe.github.io">	
-		<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
-
 
 ## ⚡ Tech Stack
 
@@ -56,4 +43,6 @@ I'm 18 years old Computer Science enthusiast pursuing a bachelor's degree. I'm a
 </p>
 
 ## ☕ Support
-<p><a href="https://www.buymeacoffee.com/rupeshdubey"> <img align="left" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a></p><br><br>
+<p>
+	<a href="https://www.buymeacoffee.com/rupeshdubey"> <img align="left" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+</p><br><br>
