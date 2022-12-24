@@ -14,26 +14,6 @@ I am always happy to make new connections and discuss potential collaboration op
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rupeshexe&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
-## ⚡ Tech Stack
-
-### 🚀 Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 👨🏻‍💻 Tools & Platform
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 💻 Workspace
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-
 ## 📈 Stats
 
 <p align="center">
@@ -41,8 +21,3 @@ I am always happy to make new connections and discuss potential collaboration op
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rupeshexe&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rupeshexe&theme=tokyonight" />
 </p>
-
-## ☕ Support
-<p>
-	<a href="https://www.buymeacoffee.com/rupeshdubey"> <img align="left" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-</p><br><br>
