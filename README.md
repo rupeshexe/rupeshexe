@@ -12,7 +12,7 @@ I am always happy to make new connections and discuss potential collaboration op
 [![Website Badge](https://img.shields.io/badge/-Portfolio%20Website-black?style=flat-square&logo=notion&logoColor=white&link=https://rupeshexe.github.io/)](https://rupeshexe.github.io/)
 [![Youtube Badge](https://img.shields.io/badge/-rupeshexe-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@rupeshexe)](https://www.youtube.com/@rupeshexe)
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=rupeshexe&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=rupeshexe&theme=tokyo-night">
 
 ## 📈 Stats
 
