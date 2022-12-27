@@ -4,7 +4,7 @@ I am an 18 year old computer science enthusiast currently pursuing a bachelor's 
 
 I am always happy to make new connections and discuss potential collaboration opportunities. To learn more about me, please feel free to connect with me through the links provided :
 
-[![Twitter Badge](https://img.shields.io/badge/-rupeshtwt-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/rupeshtwt/)](https://twitter.com/rupeshtwt)
+[![Twitter Badge](https://badgen.net/badge/icon/rupeshtwt?icon=twitter&label)](https://twitter.com/rupeshtwt)
 [![Discord Badge](https://img.shields.io/badge/-rupeshexe-grey?style=flat-square&logo=discord&logoColor=blue&link=https://discord.com/users/rupeshexe#9451)](https://discord.com/users/rupeshexe#9451)
 [![Linkedin Badge](https://img.shields.io/badge/-rupeshexe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rupeshexe/)](https://www.linkedin.com/in/rupeshexe/)
 [![Instagram Badge](https://img.shields.io/badge/-rupeshexe-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/rupeshexe/)](https://instagram.com/rupeshexe)
