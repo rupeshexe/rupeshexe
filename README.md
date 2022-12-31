@@ -11,7 +11,7 @@ I am always happy to make new connections and discuss potential collaboration op
 [![Hashnode Badge](https://img.shields.io/badge/-@rupeshexe-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://rupeshexe.hashnode.dev/)](https://rupeshexe.hashnode.dev/)
 [![Gmail Badge](https://img.shields.io/badge/-contactrupeshdubey@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contactrupeshdubey@gmail.com)](mailto:contactrupeshdubey@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio%20Website-black?style=flat-square&logo=google&link=https://rupeshexe.github.io/)](https://rupeshexe.github.io/)
-[![Youtube Badge](https://img.shields.io/badge/-rupeshexe-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@rupeshexe)](https://www.youtube.com/@rupeshexe)
+[![Youtube Badge](https://img.shields.io/badge/-Rupesh%20Dubey-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@rupeshexe)](https://www.youtube.com/@rupeshexe)
 [![Telegram Badge](https://img.shields.io/badge/-rupeshchatbot-lightblue?style=flat-square&logo=telegram&logoColor=blue&link=https://t.me/rupeshchatbot)](https://t.me/rupeshchatbot)
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rupeshexe&theme=tokyo-night">
